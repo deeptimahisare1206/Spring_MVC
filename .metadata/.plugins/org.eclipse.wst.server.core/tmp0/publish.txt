@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Tue Nov 26 17:23:29 IST 2024
-org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\deept\\.m2\\repository\\org\\springframework\\spring-web\\6.0.0\\spring-web-6.0.0.jar=WEB-INF/lib/spring-web-6.0.0.jar
