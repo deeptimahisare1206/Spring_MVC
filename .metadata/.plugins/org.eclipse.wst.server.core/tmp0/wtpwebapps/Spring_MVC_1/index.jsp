@@ -7,13 +7,21 @@ body {
 	background-color: #5cdcdcd;
 	display: grid;
 	place-items:center;
+
+}
+h1{
+	display: flex;
+	flex-direction: column;
 }
 
 </style>
 </head>
 <body>
 <h1>
-<a href = "one">Click Here</a>
+<a href = "one">Click Here For Link one</a>
+
+<a href = "two">Click Here forward to JSP Page</a>
+
 </h1>
 </body>
 </html>

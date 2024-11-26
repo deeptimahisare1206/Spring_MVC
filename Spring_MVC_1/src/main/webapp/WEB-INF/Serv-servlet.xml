@@ -6,5 +6,11 @@
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"> <!-- bean definitions here -->
 
 	<context:component-scan base-package="com.mypackage"></context:component-scan>
+	
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" name="vr">
+	<property name="prefix" value="WEB-INF/View/"/><!-- Path to the file after Webapp -->
+	<property name="suffix" value=".jsp"/><!--Extension of the file -->
+	
+	</bean>
 
 </beans>

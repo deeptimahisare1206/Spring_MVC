@@ -12,4 +12,12 @@ public class Controller {
 		
 		return "Controller Class Displayed!";
 	}
+	
+
+	@RequestMapping("/two")
+//	@ResponseBody
+	String get2() {
+		
+		return "First";
+	}
 }
