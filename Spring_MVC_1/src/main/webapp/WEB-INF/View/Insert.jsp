@@ -1,3 +1,4 @@
+<%@page import="com.mypackage.Student"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -25,16 +26,27 @@ padding: 3rem;
 <body>
 
  <%
+/* 
+//for Model class 
+//and Model and View class
 
-String roll = (String)request.getAttribute("roll");
- String name = (String)request.getAttribute("name");
- String per = (String)request.getAttribute("per");
-
+String roll =(String)request.getAttribute("roll");
+ String name =(String)request.getAttribute("name");
+ String per =(String)request.getAttribute("per"); */
+ 
+ Student stu = new Student();
+ 
+ 
 %>
 <h1>
-   				Roll No:  <%=roll %><br>
+   				<%-- Roll No:  <%=roll %><br>
    				Name:  <%=name %><br>
-   				Percentage:  <%=per %><br>
+   				Percentage:  <%=per %><br> --%>
+   				
+   				
+   				Roll No:  <%=stu.getRoll() %><br>
+   				Name:  <%= stu.getName() %><br>
+   				Percentage:  <%=stu.getPercent() %><br>
 
 </h1>
 

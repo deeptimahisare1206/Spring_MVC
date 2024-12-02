@@ -1,0 +1,10 @@
+127.0.0.1 - - [02/Dec/2024:20:32:13 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:20:32:14 +0530] "GET /Spring_MVC_1/ HTTP/1.1" 200 355
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:20:32:20 +0530] "GET /Spring_MVC_1/two HTTP/1.1" 200 2725
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:20:32:27 +0530] "GET /Spring_MVC_1/insert?name=Deepti+Mahisare&roll=12&per=100 HTTP/1.1" 200 425
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:20:44:55 +0530] "GET /Spring_MVC_1/insert?name=Deepti+&roll=12&per=100 HTTP/1.1" 200 417
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:21:09:40 +0530] "GET /Spring_MVC_1/ HTTP/1.1" 200 355
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:21:09:41 +0530] "GET /Spring_MVC_1/ HTTP/1.1" 200 355
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:21:10:12 +0530] "GET /Spring_MVC_1/two HTTP/1.1" 200 2767
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:21:10:16 +0530] "GET /Spring_MVC_1/insert2?name=Deepti+&roll=12&per=100 HTTP/1.1" 200 417
+0:0:0:0:0:0:0:1 - - [02/Dec/2024:21:10:52 +0530] "GET /Spring_MVC_1/insert2?name=Deepti+&roll=12&per=100 HTTP/1.1" 200 417

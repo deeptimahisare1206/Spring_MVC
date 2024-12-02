@@ -71,7 +71,8 @@
 
     <div class="form-container">
         <h2>Student Information</h2>
-        <form action="insert">
+<!--         <form action="insert"> -->
+        <form action="insert2">
             <div class="form-group">
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" placeholder="Enter your name" required>
