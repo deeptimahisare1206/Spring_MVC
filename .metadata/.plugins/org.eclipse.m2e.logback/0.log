@@ -459,3 +459,437 @@
 2024-11-27 17:33:52,066 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-11-27 17:33:52,067 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
 2024-11-28 16:55:05,810 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-02 20:10:41,520 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-02 20:10:43,124 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-12-02 21:08:22,639 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:08:22,648 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:08:22,652 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:08:22,653 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:09:05,494 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:09:05,499 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:09:05,502 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:09:05,503 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:09:33,643 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:09:33,644 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:09:33,646 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:09:33,647 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:35:54,120 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:35:54,123 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:35:54,125 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:35:54,126 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:36:05,033 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:36:05,035 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:36:05,038 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:36:05,039 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:46:02,337 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:46:02,338 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:46:02,340 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:46:02,340 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:49:38,360 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:49:38,361 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:49:38,362 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:49:38,363 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:50:58,788 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:50:58,789 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:50:58,792 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:50:58,793 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:52:49,155 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:52:49,156 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:52:49,158 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:52:49,158 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 21:55:56,846 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:55:56,847 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 21:55:56,849 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 21:55:56,850 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:14:24,857 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:14:24,858 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:14:24,861 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:14:24,862 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:15:01,545 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:15:01,546 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:15:01,549 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:15:01,549 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:15:15,370 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:15:15,371 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:15:15,374 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:15:15,375 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:18:17,787 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:18:17,788 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:18:17,798 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:18:17,800 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:19:05,575 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:19:05,576 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:19:05,579 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:19:05,580 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:19:17,808 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:19:17,809 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:19:17,811 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:19:17,817 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:19:32,791 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:19:32,792 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:19:32,798 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:19:32,800 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:19:38,227 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:19:38,228 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:19:38,231 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:19:38,231 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:20:13,486 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:20:13,487 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:20:13,489 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:20:13,490 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:22:20,894 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:22:20,895 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:22:20,897 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:22:20,899 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:31:30,953 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:31:30,954 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:31:30,956 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:31:30,957 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-02 23:32:53,148 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:32:53,149 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-02 23:32:53,151 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-02 23:32:53,152 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 00:04:05,834 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 00:04:05,836 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 00:04:05,839 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 00:04:05,840 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:13:33,550 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-03 11:19:07,454 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:19:07,464 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:19:07,468 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:19:07,469 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:22:26,125 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [645])
+2024-12-03 11:22:26,127 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-12-03 11:22:26,128 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-12-03 11:22:26,129 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-12-03 11:22:26,129 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-12-03 11:22:26,129 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-12-03 11:22:26,129 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-12-03 11:22:26,129 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-12-03 11:22:26,129 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-12-03 11:22:26,130 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-12-03 11:22:26,130 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-12-03 11:22:26,130 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-12-03 11:22:26,131 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-12-03 11:22:26,132 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-12-03 11:22:26,134 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-12-03 11:22:26,134 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-12-03 11:22:26,134 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-12-03 11:22:26,134 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-12-03 11:22:26,134 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-12-03 11:22:26,134 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-03 11:22:26,134 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-12-03 11:22:26,135 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-12-03 11:22:26,135 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-12-03 11:22:26,135 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-12-03 11:22:26,135 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-12-03 11:22:26,136 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [16])
+2024-12-03 11:22:26,136 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\com.google.guava_33.2.0.jre.jar
+2024-12-03 11:22:26,136 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [1010])
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\slf4j.api_2.0.13.jar
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [33])
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [44])
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [78])
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.apache.commons.cli_1.8.0.jar
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [89])
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-12-03 11:22:26,137 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-12-03 11:22:26,140 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-03 11:22:26,144 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\deept\AppData\Local\Temp\m2e-archetypeGenerator4365577596822497574":
+2024-12-03 11:22:26,145 [Worker-3: Launching mavenrun-292104a5-125f-4ba1-b482-f773134c81f7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.0 -DgroupId=Spring_MVC_Hibernate_connect_CRUD -DartifactId=Spring_MVC_Hibernate_connect_CRUD -Dversion=0.0.1-SNAPSHOT -Dpackage=com.mypackage -DoutputDirectory="E:\9. Spring MVC" -Dstyle.color=always -U archetype:generate
+2024-12-03 11:22:46,079 [Worker-15: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD\pom.xml
+2024-12-03 11:22:46,470 [Worker-15: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring_MVC_Hibernate_connect_CRUD:Spring_MVC_Hibernate_connect_CRUD:0.0.1-SNAPSHOT @ E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD\pom.xml.
+2024-12-03 11:22:47,062 [Worker-15: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring_MVC_Hibernate_connect_CRUD/src/main/java
+2024-12-03 11:22:47,064 [Worker-15: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring_MVC_Hibernate_connect_CRUD/src/main/resources
+2024-12-03 11:22:47,064 [Worker-15: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring_MVC_Hibernate_connect_CRUD/src/test/java
+2024-12-03 11:22:47,065 [Worker-15: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring_MVC_Hibernate_connect_CRUD/src/test/resources
+2024-12-03 11:22:48,200 [Worker-15: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2024-12-03 11:22:49,068 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:22:49,069 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:22:49,072 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:22:49,073 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD\src\test\resources
+2024-12-03 11:23:19,994 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:23:19,997 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:23:19,999 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:23:20,000 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:23:35,913 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:23:35,914 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:23:35,916 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:23:35,917 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:24:11,283 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:24:11,285 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:24:11,288 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:24:11,289 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:25:00,590 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring_MVC_Hibernate_connect_CRUD:Spring_MVC_Hibernate_connect_CRUD:0.0.1-SNAPSHOT @ E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD\pom.xml.
+2024-12-03 11:25:00,724 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:25:00,725 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:25:00,727 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:25:00,729 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:25:00,729 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:25:00,730 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:26:00,905 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring_MVC_Hibernate_connect_CRUD:Spring_MVC_Hibernate_connect_CRUD:0.0.1-SNAPSHOT @ E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD\pom.xml.
+2024-12-03 11:26:01,133 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-12-03 11:26:01,705 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.30/spring-beans-5.3.30.jar
+2024-12-03 11:26:02,227 [Worker-13: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.30/spring-beans-5.3.30.jar
+2024-12-03 11:26:02,239 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-12-03 11:26:02,380 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:26:02,381 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:26:02,382 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:26:02,383 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:26:02,384 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:26:02,384 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:26:03,597 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.30/spring-beans-5.3.30-sources.jar
+2024-12-03 11:26:04,122 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.30/spring-beans-5.3.30-sources.jar
+2024-12-03 11:26:04,126 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.30
+2024-12-03 11:26:26,694 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:26:26,695 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:26:26,698 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:26:26,698 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:26:53,505 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:26:53,506 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:26:53,508 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:26:53,509 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:27:43,958 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:27:43,960 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:27:43,966 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:27:43,967 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:27:53,076 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:27:53,078 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:27:53,081 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:27:53,082 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:28:23,920 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:28:23,922 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:28:23,928 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:28:23,929 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:28:41,317 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:28:41,317 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:28:41,319 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:28:41,319 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:30:49,374 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:30:49,375 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:30:49,376 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:30:49,377 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:31:37,412 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:31:37,414 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:31:37,415 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:31:37,416 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:32:32,367 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:32:32,368 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:32:32,372 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:32:32,373 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:32:54,400 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:32:54,401 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:32:54,403 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:32:54,404 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:34:43,692 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:34:43,693 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:34:43,696 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:34:43,697 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:34:55,549 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:34:55,551 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:34:55,553 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:34:55,553 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:35:21,229 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:35:21,230 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:35:21,233 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:35:21,234 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:35:26,142 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:35:26,143 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:35:26,145 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:35:26,146 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:36:30,011 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:36:30,012 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:36:30,017 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:36:30,019 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:36:41,235 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-03 11:36:41,567 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring_MVC_Hibernate_connect_CRUD:Spring_MVC_Hibernate_connect_CRUD:0.0.1-SNAPSHOT @ E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD\pom.xml.
+2024-12-03 11:36:41,734 [Worker-15: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-12-03 11:36:41,778 [Worker-15: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-12-03 11:36:42,453 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring_MVC_Hibernate_connect_CRUD/src/main/java
+2024-12-03 11:36:42,454 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring_MVC_Hibernate_connect_CRUD/src/main/resources
+2024-12-03 11:36:42,455 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring_MVC_Hibernate_connect_CRUD/src/test/java
+2024-12-03 11:36:42,455 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring_MVC_Hibernate_connect_CRUD/src/test/resources
+2024-12-03 11:36:43,123 [Worker-15: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:36:43,137 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-12-03 11:36:43,362 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:36:43,364 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:36:43,367 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:36:43,367 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:36:43,368 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:36:43,368 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:41:03,809 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:41:03,810 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:41:03,812 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:41:03,813 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:41:59,442 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:41:59,443 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:41:59,445 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:41:59,445 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:42:10,490 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:42:10,490 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:42:10,492 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:42:10,492 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:42:30,223 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:42:30,224 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:42:30,226 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:42:30,226 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:46:23,460 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring_MVC_Hibernate_connect_CRUD:Spring_MVC_Hibernate_connect_CRUD:0.0.1-SNAPSHOT @ E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD\pom.xml.
+2024-12-03 11:46:23,573 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-12-03 11:46:23,898 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.0/spring-aop-6.0.0.jar
+2024-12-03 11:46:24,275 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.0/spring-aop-6.0.0.jar
+2024-12-03 11:46:24,376 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.0/spring-expression-6.0.0.jar
+2024-12-03 11:46:24,548 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.0/spring-expression-6.0.0.jar
+2024-12-03 11:46:24,595 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.0/spring-beans-6.0.0.jar
+2024-12-03 11:46:25,195 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.0/spring-beans-6.0.0.jar
+2024-12-03 11:46:25,297 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:46:25,298 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:46:25,300 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:46:25,301 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:46:25,301 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:46:25,301 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 11:46:26,563 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.0/spring-aop-6.0.0-sources.jar
+2024-12-03 11:46:26,918 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.0/spring-aop-6.0.0-sources.jar
+2024-12-03 11:46:26,921 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:6.0.0
+2024-12-03 11:46:27,255 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.0/spring-beans-6.0.0-sources.jar
+2024-12-03 11:46:27,899 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.0/spring-beans-6.0.0-sources.jar
+2024-12-03 11:46:27,901 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:6.0.0
+2024-12-03 11:46:28,134 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.0/spring-expression-6.0.0-sources.jar
+2024-12-03 11:46:28,374 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.0/spring-expression-6.0.0-sources.jar
+2024-12-03 11:46:28,378 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:6.0.0
+2024-12-03 11:48:53,943 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:48:53,944 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:48:53,948 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:48:53,948 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:49:57,109 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:49:57,111 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:49:57,112 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:49:57,113 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:50:13,991 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:50:13,992 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:50:13,995 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:50:13,995 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:50:18,250 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:50:18,251 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:50:18,254 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:50:18,255 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:50:40,117 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:50:40,118 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:50:40,120 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:50:40,121 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:50:49,962 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:50:49,964 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:50:49,966 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:50:49,967 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:52:38,160 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:52:38,161 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:52:38,163 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:52:38,164 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:53:17,692 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:53:17,695 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:53:17,698 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:53:17,699 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:54:44,388 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:54:44,390 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:54:44,392 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:54:44,394 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 11:55:03,706 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:55:03,707 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 11:55:03,708 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 11:55:03,709 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 14:42:48,472 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-03 14:47:47,592 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-12-03 14:47:48,204 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 14:47:48,208 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 14:47:48,213 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 14:47:48,214 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 14:49:19,092 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 14:49:19,097 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 14:49:19,104 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 14:49:19,106 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 14:52:31,303 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Spring_MVC_Hibernate_connect_CRUD:Spring_MVC_Hibernate_connect_CRUD:0.0.1-SNAPSHOT @ E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD\pom.xml.
+2024-12-03 14:52:31,772 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.15/spring-webmvc-6.1.15.pom
+2024-12-03 14:52:31,796 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.15/spring-webmvc-6.1.15.pom
+2024-12-03 14:52:31,883 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.1.15/spring-aop-6.1.15.pom
+2024-12-03 14:52:31,893 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.1.15/spring-aop-6.1.15.pom
+2024-12-03 14:52:31,984 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.1.15/spring-beans-6.1.15.pom
+2024-12-03 14:52:31,994 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.1.15/spring-beans-6.1.15.pom
+2024-12-03 14:52:32,074 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.1.15/spring-core-6.1.15.pom
+2024-12-03 14:52:32,083 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.1.15/spring-core-6.1.15.pom
+2024-12-03 14:52:32,182 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.1.15/spring-jcl-6.1.15.pom
+2024-12-03 14:52:32,186 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.1.15/spring-jcl-6.1.15.pom
+2024-12-03 14:52:32,353 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/6.1.15/spring-context-6.1.15.pom
+2024-12-03 14:52:32,362 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/6.1.15/spring-context-6.1.15.pom
+2024-12-03 14:52:32,586 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.1.15/spring-expression-6.1.15.pom
+2024-12-03 14:52:32,591 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.1.15/spring-expression-6.1.15.pom
+2024-12-03 14:52:32,799 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.12/micrometer-observation-1.12.12.pom
+2024-12-03 14:52:32,809 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.12/micrometer-observation-1.12.12.pom
+2024-12-03 14:52:32,892 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.12/micrometer-commons-1.12.12.pom
+2024-12-03 14:52:32,900 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.12/micrometer-commons-1.12.12.pom
+2024-12-03 14:52:33,003 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.15/spring-web-6.1.15.pom
+2024-12-03 14:52:33,011 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.15/spring-web-6.1.15.pom
+2024-12-03 14:52:33,115 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-12-03 14:52:33,269 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.15/spring-webmvc-6.1.15.jar
+2024-12-03 14:52:34,647 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.15/spring-webmvc-6.1.15.jar
+2024-12-03 14:52:34,736 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.1.15/spring-aop-6.1.15.jar
+2024-12-03 14:52:34,874 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.12/micrometer-observation-1.12.12.jar
+2024-12-03 14:52:34,888 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.1.15/spring-expression-6.1.15.jar
+2024-12-03 14:52:34,892 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.1.15/spring-beans-6.1.15.jar
+2024-12-03 14:52:35,120 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.15/spring-web-6.1.15.jar
+2024-12-03 14:52:35,283 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.12/micrometer-observation-1.12.12.jar
+2024-12-03 14:52:35,296 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.1.15/spring-aop-6.1.15.jar
+2024-12-03 14:52:35,309 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.12/micrometer-commons-1.12.12.jar
+2024-12-03 14:52:35,426 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.12/micrometer-commons-1.12.12.jar
+2024-12-03 14:52:35,666 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.1.15/spring-expression-6.1.15.jar
+2024-12-03 14:52:36,963 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.1.15/spring-beans-6.1.15.jar
+2024-12-03 14:52:40,996 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.15/spring-web-6.1.15.jar
+2024-12-03 14:52:41,055 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2024-12-03 14:52:41,659 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 14:52:41,661 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-03 14:52:41,664 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-03 14:52:41,664 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-03 14:52:41,665 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 14:52:41,665 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring_MVC_Hibernate_connect_CRUD
+2024-12-03 14:52:42,798 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.15/spring-webmvc-6.1.15-sources.jar
+2024-12-03 14:52:42,925 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.1.15/spring-webmvc-6.1.15-sources.jar
+2024-12-03 14:52:42,929 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:6.1.15
+2024-12-03 14:52:43,081 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.1.15/spring-aop-6.1.15-sources.jar
+2024-12-03 14:52:43,270 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.1.15/spring-aop-6.1.15-sources.jar
+2024-12-03 14:52:43,273 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:6.1.15
+2024-12-03 14:52:43,465 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.1.15/spring-beans-6.1.15-sources.jar
+2024-12-03 14:52:43,717 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.1.15/spring-beans-6.1.15-sources.jar
+2024-12-03 14:52:43,720 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:6.1.15
+2024-12-03 14:52:43,876 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.1.15/spring-expression-6.1.15-sources.jar
+2024-12-03 14:52:43,979 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.1.15/spring-expression-6.1.15-sources.jar
+2024-12-03 14:52:43,983 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:6.1.15
+2024-12-03 14:52:44,166 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.15/spring-web-6.1.15-sources.jar
+2024-12-03 14:52:44,404 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.1.15/spring-web-6.1.15-sources.jar
+2024-12-03 14:52:44,406 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:6.1.15
+2024-12-03 14:52:44,486 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.12/micrometer-observation-1.12.12-sources.jar
+2024-12-03 14:52:44,504 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.12/micrometer-observation-1.12.12-sources.jar
+2024-12-03 14:52:44,506 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-observation:1.12.12
+2024-12-03 14:52:44,723 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.12/micrometer-commons-1.12.12-sources.jar
+2024-12-03 14:52:44,798 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.12/micrometer-commons-1.12.12-sources.jar
+2024-12-03 14:52:44,803 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-commons:1.12.12

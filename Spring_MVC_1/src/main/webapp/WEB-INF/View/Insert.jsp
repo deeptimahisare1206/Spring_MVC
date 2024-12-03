@@ -34,7 +34,7 @@ String roll =(String)request.getAttribute("roll");
  String name =(String)request.getAttribute("name");
  String per =(String)request.getAttribute("per"); */
  
- Student stu = new Student();
+ Student stu = (Student)request.getAttribute("student");
  
  
 %>
@@ -45,7 +45,7 @@ String roll =(String)request.getAttribute("roll");
    				
    				
    				Roll No:  <%=stu.getRoll() %><br>
-   				Name:  <%= stu.getName() %><br>
+   				Name:  <%= stu.getName()%><br>
    				Percentage:  <%=stu.getPercent() %><br>
 
 </h1>

@@ -134,7 +134,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="E:\9. Spring MVC\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="E:\9. Spring MVC\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Spring_MVC_1" path="/Spring_MVC_1" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring_MVC_1"/></Host>
+      <Context docBase="E:\9. Spring MVC\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="E:\9. Spring MVC\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Spring_MVC_Hibernate_connect" path="/Spring_MVC_Hibernate_connect" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring_MVC_Hibernate_connect"/></Host>
     </Engine>
   </Service>
 </Server>
