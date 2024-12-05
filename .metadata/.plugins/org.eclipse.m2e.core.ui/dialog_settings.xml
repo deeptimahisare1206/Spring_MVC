@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\9. Spring MVC\Spring_MVC_Hibernate_connect_CRUD"/>
 			<item value="E:\9. Spring MVC\Spring_MVC_1\src\main\webapp\WEB-INF\View\First.jsp"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,14 +27,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.mypackage"/>
 			<item value="com.mycompany"/>
+			<item value="com.mypackage"/>
 		</list>
 		<list key="groupId">
+			<item value="Spring_MVC_Hibernate_connect"/>
 			<item value="Spring_MVC_Hibernate_connect_CRUD"/>
 			<item value="Spring_MVC_1"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring_MVC_Hibernate_connect"/>
 			<item value="Spring_MVC_Hibernate_connect_CRUD"/>
 			<item value="Spring_MVC_1"/>
 		</list>

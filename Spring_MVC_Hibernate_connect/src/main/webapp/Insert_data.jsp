@@ -13,21 +13,18 @@
 
 
 <%
-
-Student stu = (Student)request.getAttribute("student");
-StudentDao sd =(StudentDao)request.getAttribute("stuDao"); 
-List<Student>l=sd.selectAll(stu);
+List<Student>l=(List<Student>)request.getAttribute("studentss");
 
 for (Student student : l) {
 %>
 <h1>
-IS it done??
-
-Roll: <%=student.getRoll() %>
-
-
+<pre>
+Roll: <%=student.getRoll() %>   Name: <%=student.getName() %>   Percent: <%=student.getPercent() %>     <a href="test?id=<%=student.getRoll()%>">DELETE</a>
+</pre>
 
 <%} %>
 </h1>
+
+<a href="info">Insert</a>
 </body>
 </html>

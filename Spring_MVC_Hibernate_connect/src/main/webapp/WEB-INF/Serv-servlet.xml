@@ -11,7 +11,7 @@
 	<context:component-scan base-package="com.mycompany"></context:component-scan>
 	
 	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" name="vr">
-	<property name="prefix" value="WEB-INF/View/"/><!-- Path to the file after Webapp -->
+	<property name="prefix" value="/"/><!-- Path to the file after Webapp -->
 	<property name="suffix" value=".jsp"/><!-- Extension of the file -->
 	
 	</bean>

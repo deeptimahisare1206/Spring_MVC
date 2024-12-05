@@ -1,9 +1,0 @@
-package com.mypackage;
-
-public class Student {
-	
-	int roll;
-	String name;
-	float percent;
-
-}

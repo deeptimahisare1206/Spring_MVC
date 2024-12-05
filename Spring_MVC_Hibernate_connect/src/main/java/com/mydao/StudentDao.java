@@ -34,10 +34,15 @@ public class StudentDao {
 
 			return i;
 		}
-		public List<Student> selectAll(Student st){
+		
+		public List<Student> selectAll(){
 			List<Student> l = ht.loadAll(Student.class);
 			return l;
 		}
 
+		public void delete(Student st) {
+			ht.delete(st);
+			
+		}
 		
 }
