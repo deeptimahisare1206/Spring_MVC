@@ -39,10 +39,18 @@ public class StudentDao {
 			List<Student> l = ht.loadAll(Student.class);
 			return l;
 		}
+		
+		public Student findbyId(Integer id) {
+		
+			return ht.get(Student.class,id);
+		}
 
 		public void delete(Student st) {
 			ht.delete(st);
-			
+		}
+		
+		public void update(Student stu) {
+			ht.update(stu);
 		}
 		
 }

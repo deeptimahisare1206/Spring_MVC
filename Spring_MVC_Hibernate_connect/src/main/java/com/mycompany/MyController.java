@@ -31,15 +31,9 @@ public class MyController {
 	}
 	
 	@RequestMapping("/insert2")
-	public String insert(@ModelAttribute Student student , HttpServletResponse res) {
+	public String insert(@ModelAttribute Student student) {
 		studentDao.insert(student);
-		try {
-			res.sendRedirect("Insert_data");
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		return "Insert_data";
+		return "redirect:/selecta";
 		
 	}
 	@RequestMapping("/selecta")
@@ -51,21 +45,25 @@ public class MyController {
 	}
 	
 	@RequestMapping("/delete")
-	@ResponseBody
-	public String delete(@RequestParam("id") Student student) {
-		studentDao.delete(student);
-		return "Success";
+	public String delete(@RequestParam("id") Integer id, HttpServletResponse res) {
+		Student st =studentDao.findbyId(id);
+		studentDao.delete(st);
+		return "redirect:/selecta";
 	}
 	
-//	
-//	@RequestMapping("/test")
-//	@ResponseBody
-//	public String test(HttpServletRequest req, Model m) {
-//		String id = req.getParameter("id");
-//		System.out.println(id);
-//		return "Success";
-//	}
-//	
+	@RequestMapping("/update")
+	public String update(@RequestParam("id") Integer id,Model m) {
+		Student st =studentDao.findbyId(id);
+		m.addAttribute("getup", st);
+		
+		return "update";
+	}
+	@RequestMapping("/updated")
+	public String updated(@ModelAttribute Student student) {
+		studentDao.update(student);
+		return "redirect:/selecta";
+		
+	}
 	
 	
 

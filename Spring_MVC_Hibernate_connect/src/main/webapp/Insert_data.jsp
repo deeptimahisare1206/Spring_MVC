@@ -19,7 +19,7 @@ for (Student student : l) {
 %>
 <h1>
 <pre>
-Roll: <%=student.getRoll() %>   Name: <%=student.getName() %>   Percent: <%=student.getPercent() %>     <a href="test?id=<%=student.getRoll()%>">DELETE</a>
+Roll: <%=student.getRoll() %>   Name: <%=student.getName() %>   Percent: <%=student.getPercent() %>     <a href="delete?id=<%=student.getRoll()%>">DELETE</a>      <a href="update?id=<%=student.getRoll()%>">UPDATE</a>
 </pre>
 
 <%} %>
